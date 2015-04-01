@@ -14,8 +14,8 @@ A simple 'Hello, World!' web app template for Flask.
 ### Setting up environment
 
 1. `virtualenv env`
-2. `pip install -r requirements.txt`
-3. `source env/bin/activate`
+2. `source env/bin/activate`
+3. `pip install -r requirements.txt`
 
 ### Running local server
 
